@@ -1,49 +1,53 @@
 body{
-  background-image: url('https://uploads.onecompiler.io/43t6xsukx/43t7qdyj3/IMG_20250809_220931.jpg');
+  background-image: url('https://uploads.onecompiler.io/43t6xsukx/43t6zcc8f/Screenshot_2025-08-09-10-22-16-123_com.gallery.player.jpg');
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
 }
-.Google img{
+img{
   width: 17px;
   height: 17px;
-  padding: 5px 0 0px 0;
-}
-.Guest img{
-  width: 17px;
-  height: 17px;
-  padding: 5px 0 0px 0;
+  padding: 0 0 0 5px;
 }
 .Login{
   background-color: blue;
   color: black;
-  font-size: 30px;
+  font-weight: bold;
+  font-size: 20px;
   border-radius: 10px;
-  margin: 600px 0 0 40px;
-  padding: 0 40px 0 40px;
+  margin: 500px 0 0 62px;
+  width: 130px;
+  height: 35px;
 }
 .Signup{
   background-color: blue;
   color: black;
-  font-size: 30px;
+  font-size: 20px;
+  font-weight: bold;
   border-radius: 10px;
-  margin: 0 0 0 60px;
-  padding: 0 30px 0 30px;
+  margin: 0 0 0 50px;
+  width: 130px;
+  height: 35px;
 }
 .Google{
   background-color: white;
   color: black;
-  font-size: 20px;
+  font-size: 18px;
   border-radius: 30px;
-  margin: 90px 0 0 0;
-  padding: 0 200px 0 10px;
+  margin: 30px 0 0 0;
+  width: 430px;
+  height: 30px;
   font-weight: Bold;
+  text-align: left;
 }
 .Guest {
   background-color: white;
   color: black;
-  font-size: 20px;
+  font-size: 18px;
   border-radius: 30px;
-  margin: 50px 0 0 0;
-  padding: 0 210px 0 10px;
+  margin: 10px 0 0 0;
+  width: 430px;
+  height: 30px;
   font-weight: Bold;
+  text-align: left;
 }
