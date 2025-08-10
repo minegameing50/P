@@ -6,9 +6,8 @@ body{
   height: 100%;
 }
 img{
-  width: 24px;
-  height: 24px;
-  padding: 0 0 0 5px;
+  width: 30px;
+  height: 30px;
 }
 .Login{
   background-color: blue;
@@ -38,7 +37,7 @@ img{
   margin: 50px 0 0 30px;
   width: 900px;
   height: 60px;
-  font-weight: Bold;
+  font-weight: bold;
   text-align: left;
 }
 .Guest {
@@ -49,6 +48,6 @@ img{
   margin: 30px 0 0 30px;
   width: 900px;
   height: 60px;
-  font-weight: Bold;
+  font-weight: bold;
   text-align: left;
 }
