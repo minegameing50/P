@@ -2,6 +2,8 @@ body{
   background-image: url('https://uploads.onecompiler.io/43t6xsukx/43t9h3sjb/IMG_20250810_120229.jpg');
   background-size: cover;
   background-repeat: no-repeat;
+  overflow: hidden;
+  height: 100%;
 }
 img{
   width: 17px;
@@ -14,7 +16,7 @@ img{
   font-weight: bold;
   font-size: 50px;
   border-radius: 20px;
-  margin: 900px 0 0 150px;
+  margin: 1300px 0 0 150px;
   width: 300px;
   height: 70px;
 }
