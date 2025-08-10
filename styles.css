@@ -6,8 +6,8 @@ body{
   height: 100%;
 }
 img{
-  width: 30px;
-  height: 30px;
+  width: 35px;
+  height: 35px;
 }
 .Login{
   background-color: blue;
@@ -30,11 +30,11 @@ img{
   height: 70px;
 }
 .Google{
-  background-color: white;
+  background-color: green;
   color: black;
   font-size: 35px;
   border-radius: 50px;
-  margin: 50px 0 0 30px;
+  margin: 50px 0 0 35px;
   width: 900px;
   height: 60px;
   font-weight: bold;
@@ -45,7 +45,7 @@ img{
   color: black;
   font-size: 35px;
   border-radius: 50px;
-  margin: 30px 0 0 30px;
+  margin: 30px 0 0 35px;
   width: 900px;
   height: 60px;
   font-weight: bold;
